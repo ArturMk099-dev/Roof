@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 import { useTranslation } from "react-i18next";
 import { useAnimate } from '../hooks/useAnimate';
 function Footer(props) {
-    const { t, i18n } = useTranslation("common");
+    const { t } = useTranslation("common");
     useAnimate();
     return (
          <footer>

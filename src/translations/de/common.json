@@ -1,0 +1,142 @@
+{
+  "menu-title": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "contact": "Kontakt"
+  },
+  "hero-info": {
+    "title": "Der Gipfel der Qualität",
+    "txt": "Wir bieten erstklassige Dachlösungen – gefertigt mit Integrität und auf Langlebigkeit ausgelegt.",
+    "btn": "Angebot anfordern"
+  },
+  "do-info": {
+    "title": "Unsere Leistungen",
+    "txt": "Unser zertifiziertes Team wickelt jedes Dachprojekt mit Präzision und dem Anspruch an architektonische Exzellenz ab."
+  },
+  "vert-info": {
+    "title": "Der Aegis-Vertex-Vorteil",
+    "btn": "Kontaktieren Sie uns noch heute",
+    "txt": "Wir verbinden jahrzehntelange Erfahrung mit erstklassigen Materialien, um den Schutz Ihres Zuhauses und die Sicherheit Ihrer Investition zu gewährleisten. Unser Anspruch an architektonische Sorgfalt bedeutet, dass jede einzelne Dachschindel mit höchster Präzision verlegt wird."
+  },
+  "spectr-info": {
+    "title": "Unser Leistungsspektrum rund ums Dach",
+    "txt": "Von kleineren Reparaturen bis hin zur kompletten Dacherneuerung – unser zertifiziertes Team wickelt jedes Projekt mit Präzision und höchstem Qualitätsanspruch ab."
+  },
+  "spectr-title": {
+    "title1": "Dacherneuerung & -montage",
+    "title2": "Leckortung & Reparatur",
+    "title3": "Präventive Wartung & Inspektion",
+    "title4": "Sturmschadenbeseitigung"
+  },
+  "spectr-txt": {
+    "txt1": "Wir bieten umfassende Lösungen unter Verwendung hochwertiger Materialien und solider Konstruktionsweisen, um den optimalen Schutz Ihres Hauses zu gewährleisten.",
+    "txt2": "Unsere Fachleute nutzen moderne Verfahren, um Undichtigkeiten aufzuspüren und dauerhafte Reparaturen durchzuführen, die den Wert Ihrer Immobilie sichern.",
+    "txt3": "Regelmäßige Inspektionen und Wartungen dienen dazu, Probleme frühzeitig zu erkennen und die Lebensdauer sowie Leistungsfähigkeit Ihres Daches zu maximieren.",
+    "txt4": "Bei Unwetterschäden sorgt unser Einsatzteam für eine fachgerechte Begutachtung und schnelle, dauerhafte Reparaturen, um die Sicherheit und Integrität Ihres Daches und Hauses wiederherzustellen."
+  },
+  "proc-info": {
+    "title": "Unser Ablauf"
+  },
+  "proc-title": {
+    "title1": "Beratung & Begutachtung",
+    "title2": "Präzise Planung",
+    "title3": "Meisterhafte Ausführung",
+    "title4": "Der ultimative Schutz"
+  },
+  "proc-txt": {
+    "txt1": "Wir beginnen mit einer umfassenden Analyse des Ist-Zustands Ihres Daches, um verborgene Schwachstellen und strukturelle Probleme zu identifizieren.",
+    "txt2": "Unsere Experten entwickeln eine maßgeschneiderte Lösung unter Verwendung hochwertiger Materialien, die speziell auf die Architektur Ihrer Immobilie und die lokalen klimatischen Bedingungen abgestimmt sind.",
+    "txt3": "Unser zertifiziertes Team führt die Montage mit chirurgischer Präzision und effizientem Abfallmanagement durch und gewährleistet dabei höchste Standards bei Sicherheit und Sauberkeit auf der Baustelle.",
+    "txt4": "Nach Abschluss der Arbeiten erfolgt eine mehrstufige Qualitätsprüfung, um sicherzustellen, dass Ihr neues Dach den hohen Aegis-Vertex-Standards für Exzellenz und Langlebigkeit entspricht."
+  },
+  "test-info": {
+    "title": "Kundenstimmen",
+    "txt": "Das sagen unsere zufriedenen Kunden"
+  },
+  "test-name": {
+    "name1": "Elara Vance",
+    "name2": "Kaelen Roche",
+    "name3": "Sorina Duval"
+  },
+  "test-txt": {
+    "txt1": "„Aegis Vertex hat unser Dach mit außergewöhnlicher Professionalität erneuert. Das Team arbeitete effizient und sauber, und das Ergebnis ist makellos.“",
+    "txt2": "„Dank ihrer Liebe zum Detail bei der Dachinspektion blieben uns künftige, kostspielige Schäden erspart. Ein wirklich vertrauenswürdiges Team.“",
+    "txt3": "„Kommunikation und Arbeitsqualität waren erstklassig. Ich kann ihre Dienstleistungen für alle Dacharbeiten wärmstens empfehlen.“"
+  },
+  "ready-info": {
+    "title": "Bereit für erstklassigen Schutz?",
+    "txt": "Aegis Vertex bietet unvergleichliche Dachlösungen – gefertigt mit Sorgfalt und auf Langlebigkeit ausgelegt. Schließen Sie sich den zahlreichen Immobilienbesitzern an, die ihre Investition durch unsere zertifizierte Expertise abgesichert haben.",
+    "btn": "Kostenloses Angebot anfordern"
+  },
+  "solut-info": {
+    "title": "Maßgeschneiderte Lösungen für jedes Dach",
+    "txt": "Entdecken Sie unser umfassendes Leistungsangebot, das speziell auf die Anforderungen Ihrer Immobilie zugeschnitten ist und langfristige Leistungsfähigkeit garantiert.",
+    "btn": "Kontaktieren Sie uns noch heute"
+  },
+  "what-title": {
+    "title": "Was wir tun"
+  },
+  "slide-title": {
+    "title": "Das Vertex-Archiv / Handwerkskunst im Fokus"
+  },
+  "ask-title": {
+    "title": "Häufig gestellte Fragen"
+  },
+  "ask-question": {
+    "q1": "Wie lange dauert die Installation eines Premium-Dachsystems üblicherweise?",
+    "q2": "Stellen Sie technische Unterlagen für Versicherungsansprüche zur Verfügung?",
+    "q3": "Welche Materialien werden für eine maximale strukturelle Langlebigkeit empfohlen?",
+    "q4": "Verfügt das Team von Aegis Vertex über alle erforderlichen Lizenzen und Zertifizierungen?"
+  },
+  "ask-answer": {
+    "a1": "Die meisten Installationen bei Wohngebäuden werden innerhalb von 1 bis 3 Tagen abgeschlossen. Unsere präzise Logistikplanung sorgt dafür, dass die Dauer von Reparaturen und Erneuerungen minimiert wird, ohne dabei Kompromisse bei der handwerklichen Qualität einzugehen, die Ihr Zuhause verdient.",
+    "a2": "Wir unterstützen Sie während des gesamten Dokumentationsprozesses und stellen hochauflösende Bildnachweise sowie detaillierte bautechnische Berichte bereit. So ist sichergestellt, dass Ihr Versicherungsanspruch durch fachkundige Nachweise und professionelle Analysen untermauert wird.",
+    "a3": "Wir sind auf Metalldächer aus starkem Material, hochverdichtete Dachziegel und stoßfeste Asphaltdachsysteme spezialisiert. Jedes Material wird gezielt aufgrund seiner Widerstandsfähigkeit gegenüber Küstenwinden und extremer UV-Belastung ausgewählt.",
+    "a4": "Absolut. Unser gesamtes Team besteht aus vom Hersteller zertifizierten Fachleuten. Wir verfügen über eine umfassende Haftpflichtversicherung und halten uns strikt an alle OSHA-Sicherheitsvorschriften, um Ihr Zuhause und unsere Fachkräfte während jeder Bauphase zu schützen."
+  },
+  "craft-info": {
+    "title": "Handwerkskunst aus Tradition – an erster Stelle",
+    "txt": "Aegis Vertex wurde auf einem einfachen Prinzip gegründet: jedem Kunden ein Dach zu bieten, auf das er vertrauen kann, sowie ein Serviceerlebnis, das er zu schätzen weiß."
+  },
+  "lead-info": {
+    "title": "Die Führungskräfte hinter dem Unternehmen",
+    "txt": "Unser Team besteht aus erfahrenen Fachleuten, die sich der Einhaltung höchster Standards in puncto Sicherheit, Qualität und Kundenzufriedenheit verschrieben haben."
+  },
+  "lead-name": {
+    "n1": "Elias Thorne",
+    "n2": "Sarah Vance",
+    "n3": "Julian Roche"
+  },
+  "lead-job": {
+    "j1": "CEO & Gründer",
+    "j2": "Betriebsleiterin",
+    "j3": "Leiter für handwerkliche Exzellenz"
+  },
+  "safe-info": {
+    "title": "Kompromisslose Sicherheit & architektonische Präzision",
+    "txt": "Aegis Vertex wurde mit der Überzeugung gegründet, dass ein Dach mehr ist als nur Schutz – es ist ein Versprechen von Sicherheit. Unser Engagement für branchenführende Sicherheitsstandards und eine tadellose Ausführung stellt sicher, dass jedes von uns betreute Objekt so konstruiert ist, dass es den Elementen trotzt und den darunter lebenden Familien ein absolut sicheres Gefühl gibt.",
+    "btn": "Kostenloses Angebot anfordern"
+  },
+  "lets-info": {
+    "title": "Lassen Sie uns über Ihr Projekt sprechen",
+    "txt": "Kontaktieren Sie uns für einen kostenlosen und unverbindlichen Kostenvoranschlag. Wir beantworten gerne Ihre Fragen und finden die optimale Lösung für Ihr Zuhause."
+  },
+  "lets-name": {
+    "n1": "Kontaktdaten",
+    "n2": "Direktwahl",
+    "n3": "E-Mail-Kontakt"
+  },
+  "form-title": {
+    "title": "Kontaktieren Sie uns"
+  },
+  "form-name": {
+    "f-n": "Vorname*",
+    "l-n": "Nachname*",
+    "em": "E-Mail*",
+    "ph": "Telefon",
+    "serv": "Gewünschte Dienstleistung",
+    "answer": "Ausführliche Antwort",
+    "submit": "Absenden"
+  }
+}

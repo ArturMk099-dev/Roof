@@ -1,0 +1,142 @@
+{
+ "menu-title": {
+   "home": "Home",
+   "about": "About",
+   "services": "Services",
+   "contact": "Contact Us"
+ },
+ "hero-info": {
+   "title": "The Vertex of Quality",
+   "txt": "We deliver unparalleled roofing solutions built with integrity and engineered to last.",
+   "btn": "Request Estimate"
+ },
+  "do-info": {
+    "title": "What We Do",
+    "txt": "Our certified team handles every roofing project with precision and a commitment to architectural excellence."
+  },
+  "vert-info": {
+    "title": "The Aegis Vertex Advantage",
+    "btn": "Contact Us Today",
+    "txt": "We combine decades of experience with the highest-grade materials to ensure your home is protected and your investment is secure. Our commitment to architectural integrity means every shingle is placed with precision."
+  },
+  "spectr-info": {
+    "title": "Our Spectrum of Roofing Services",
+    "txt": "From minor repairs to complete system installations, our certified team handles every project with precision and a commitment to excellence."
+  },
+  "spectr-title": {
+    "title1": "Roof Replacement & Installation",
+    "title2": "Leak detection & repair",
+    "title3": "Preventative maintenance & inspection",
+    "title4": "Storm damage repair"
+  },
+  "spectr-txt": {
+    "txt1": "We provide comprehensive solutions using high-grade materials and structural integrity to ensure your home's ultimate protection.",
+    "txt2": "Our expert technicians use advanced methods to identify breaches and provide durable repairs that safeguard your investment.",
+    "txt3": "Scheduled inspections and maintenance designed to preemptive identify issues and extend the long-term performance of your roof.",
+    "txt4": "When severe weather strikes, our rapid response team provides expert assessment and durable repairs to restore the integrity and safety of your roof and home."
+  },
+  "proc-info": {
+    "title": "Our Process"
+  },
+  "proc-title": {
+    "title1": "Consultation & inspection",
+    "title2": "Precision engineering",
+    "title3": "Masterful execution",
+    "title4": "The final shield"
+  },
+  "proc-txt": {
+    "txt1": "We begin with a comprehensive analysis of your roof's current state to identify any hidden vulnerabilities and structural concerns.",
+    "txt2": "Our experts develop a tailored solution using premium-grade materials specifically chosen for your property's architecture and local climate requirements.",
+    "txt3": "Our certified crew performs the installation with surgical precision and efficient debris management, ensuring the highest standards of safety and site cleanliness.",
+    "txt4": "A multi-point quality inspection follows completion to certify that your new roof meets the Aegis Vertex standard of excellence and durability."
+  },
+  "test-info": {
+    "title": "Testimonials",
+    "txt": "Words From Our Satisfied Clients"
+  },
+  "test-name": {
+    "name1": "Elara Vance",
+    "name2": "Kaelen Roche",
+    "name3": "Sorina Duval"
+  },
+  "test-txt": {
+    "txt1": "“Aegis Vertex replaced our roof with exceptional professionalism. The crew was efficient, clean, and the result is flawless.”",
+    "txt2": "“Their attention to detail during our roof inspection saved us from future costly damages. Truly a trustworthy team.”",
+    "txt3": "“The communication and quality of work were top-tier. I highly recommend their services for any roofing needs.”"
+  },
+  "ready-info": {
+    "title": "Ready to experience the pinnacle of protection?",
+    "txt": "Aegis Vertex delivers unparalleled roofing solutions built with integrity and designed to outlast. Join the hundreds of property owners who have secured their investment with our certified expertise.",
+    "btn": "Request Your Free Estimate"
+  },
+  "solut-info": {
+    "title": "Tailored Solutions for Every Roof",
+    "txt": "Discover our full range of services, designed to meet the specific needs of your property and ensure long-term performance.",
+    "btn": "Contact Us Today"
+  },
+  "what-title": {
+    "title": "What We Do"
+  },
+  "slide-title": {
+    "title": "The Vertex Archive / Craftsmanship in Focus"
+  },
+  "ask-title": {
+    "title": "Frequently Asked Questions"
+  },
+  "ask-question": {
+    "q1": "What is the standard timeframe for a premium roof system installation?",
+    "q2": "Do you provide technical documentation for insurance claims?",
+    "q3": "Which materials are recommended for maximum structural longevity?",
+    "q4": "Is the Aegis Vertex team fully licensed and certified?"
+  },
+  "ask-answer": {
+    "a1": "Most residential installations are executed within 1 to 3 days. Our precise logistical planning ensures that repair and replacement timelines are minimized without sacrificing the technical craftsmanship your home deserves.",
+    "a2": "We assist in the entire documentation process, providing high-resolution image proof and detailed structural reports. This ensures your claim is backed by expert verification and professional analysis.",
+    "a3": "We specialize in heavy-gauge metal roofing, high-density tile, and impact-resistant asphalt systems. Each material is selected for its architectural resilience against coastal winds and extreme UV exposure.",
+    "a4": "Absolutely. Our entire crew is comprised of manufacturer-certified experts. We hold full liability insurance and strictly follow all OSHA safety protocols to protect your home and our skilled workforce during every phase of construction."
+  },
+  "craft-info": {
+    "title": "Generations of Craftsmanship Above All",
+    "txt": "Aegis Vertex was founded on a simple principle: to provide every client with a roof they can trust and a service experience they’ll value."
+  },
+  "lead-info": {
+    "title": "The leadership behind the ladder",
+    "txt": "Our team is comprised of seasoned professionals dedicated to upholding the highest standards of safety, quality, and customer satisfaction."
+  },
+  "lead-name": {
+    "n1": "Elias Thorne",
+    "n2": "Sarah Vance",
+    "n3": "Julian Roche"
+  },
+  "lead-job": {
+    "j1": "CEO & Founder",
+    "j2": "Operations director",
+    "j3": "Master Craftsmanship Lead"
+  },
+  "safe-info": {
+    "title": "Uncompromising safety & architectural precision",
+    "txt": "Aegis Vertex was founded on the belief that a roof is more than just protection—it is a promise of security. Our commitment to industry-leading safety standards and flawless execution ensures that every property we touch is engineered to withstand the elements while providing absolute peace of mind for the families beneath them.",
+    "btn": "Request Your Free Estimate"
+  },
+  "lets-info": {
+    "title": "Let's Connect About Your Project",
+    "txt": "Reach out for a complimentary, no-obligation estimate. We’re here to answer your questions and provide the best solution for your home."
+  },
+  "lets-name": {
+    "n1": "Contact Details",
+    "n2": "Direct Line",
+    "n3": "Email Correspondence"
+  },
+  "form-title": {
+    "title": "Contact Us"
+  },
+  "form-name": {
+    "f-n": "First name*",
+    "l-n": "Last name*",
+    "em": "Email*",
+    "ph": "Phone",
+    "serv": "Service of Interest",
+    "answer": "Long answer",
+    "submit": "Submit"
+  }
+}

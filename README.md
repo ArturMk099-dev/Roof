@@ -1,27 +1,27 @@
 # 🏠 Roof
 
-Modern responsive website for a roofing company built with **React.js**.
+A modern and fully responsive roofing company website built with **React.js**.
+
+![Roof Preview](images/preview.png)
+
+---
 
 ## 🌐 Live Demo
 
-🔗 https://arturmk099-dev.github.io/Roof/
+🔗 **https://arturmk099-dev.github.io/Roof/**
 
 ---
 
 ## ✨ Features
 
-- ⚛️ Built with **React.js**
-- 🌍 Multi-language support (4 languages)
-  - 🇦🇲 Armenian
-  - 🇷🇺 Russian
-  - 🇺🇸 English
-  - 🇩🇪 German
-- 📱 Fully responsive design for all devices
-- 🎞️ Image slider / carousel
+- ⚛️ Built with React.js
+- 🌍 Multi-language support (Armenian, Russian, English, German)
+- 📱 Fully responsive design
+- 🎞️ Image carousel using React Slick
 - ✨ Smooth scroll animations
-- 🎨 Modern and clean UI
-- ⚡ Fast performance
+- 🌐 Internationalization with i18next
 - 🧩 Component-based architecture
+- ⚡ Fast and optimized performance
 
 ---
 
@@ -32,54 +32,65 @@ Modern responsive website for a roofing company built with **React.js**.
 - HTML5
 - CSS3
 - React Router
-- React Slick (Carousel)
+- React Slick
+- Slick Carousel
 - i18next
 - React i18next
 
 ---
 
-## 📱 Responsive Design
+## 📱 Responsive
 
 The website is optimized for:
 
-- 📱 Mobile phones
-- 📲 Tablets
-- 💻 Laptops
-- 🖥️ Desktop computers
+- 📱 Mobile
+- 📲 Tablet
+- 💻 Laptop
+- 🖥️ Desktop
 
 ---
 
-## 🌍 Languages
+## 🌍 Supported Languages
 
-The website supports four languages:
+- 🇦🇲 Armenian
+- 🇷🇺 Russian
+- 🇺🇸 English
+- 🇩🇪 German
 
-- Armenian 🇦🇲
-- Russian 🇷🇺
-- English 🇺🇸
-- German 🇩🇪
-
-Users can switch between languages instantly.
+Users can instantly switch between all four languages.
 
 ---
 
 ## 🚀 Installation
 
+Clone the repository:
+
 ```bash
 git clone https://github.com/ArturMk099-dev/Roof.git
+```
 
-cd Roof
+Install dependencies:
 
+```bash
 npm install
+```
 
+Run the project:
+
+```bash
 npm start
 ```
 
----
-
-## 📦 Build
+Build for production:
 
 ```bash
 npm run build
+```
+
+Deploy to GitHub Pages:
+
+```bash
+npm run deploy
 ```
 
 ---
@@ -93,4 +104,4 @@ https://github.com/ArturMk099-dev
 
 ---
 
-⭐ If you like this project, don't forget to leave a star!
+⭐ If you like this project, don't forget to leave a Star!
